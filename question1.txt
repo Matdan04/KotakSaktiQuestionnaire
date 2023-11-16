@@ -1,0 +1,24 @@
+Question 1
+Describe a Data Engineer role in an organisation and its main responsibilities.
+
+Data engineers play a crucial role in an organization's data ecosystem, bridging the gap between raw data and actionable insights. They are responsible for designing, building, maintaining, and optimizing the infrastructure that collects, stores, processes, and distributes data throughout the organization
+
+Key Responsibilities of a Data Engineer:
+
+1.Data Ingestion and Pipelines:
+  -Design and implement data ingestion processes to collect data from various sources, including databases, APIs, and streaming platforms.
+
+2.Data Storage and Warehousing:
+  -Develop and maintain data storage solutions, such as data warehouses and data lakes, to store and manage large volumes of data efficiently.
+
+3.Data Transformation and Processing:
+  -Design and implement data transformation processes to clean, transform, and prepare raw data for analysis and consumption.
+
+4.Collaboration with Data Scientists and Analysts:
+  -Collaborate with data scientists and analysts to understand their data needs and provide technical support for data analysis projects.
+
+5.Troubleshooting and Performance Optimization:
+  -Diagnose and resolve data-related issues, optimize data pipelines for performance, and ensure scalability to handle increasing data volumes.
+
+6.Data Quality and Monitoring:
+  -Establish data quality metrics and implement monitoring systems to ensure the accuracy, consistency, and reliability of data.
