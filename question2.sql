@@ -31,7 +31,7 @@ CREATE TABLE invoice_lines (
   sub_total DECIMAL(10,2) NOT NULL,
   sub_total DECIMAL(10,2) NOT NULL,
   total DECIMAL(10,2) NOT NULL,
-  tax_id INT NOT NULL,
+  tax_id INT NULL,
   sku_id INT NOT NULL,
   invoice_id INT NOT NULL,
   PRIMARY KEY (id),
